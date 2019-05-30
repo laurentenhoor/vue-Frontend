@@ -51,7 +51,7 @@ h2{
 
 h3{
   color: #8e8e8e;
-  letter-spacing: 4px;
+  letter-spacing: 3px;
   font-size: 18px;
   margin-top: 30px;
   font-weight: 100!important;
@@ -241,8 +241,14 @@ a:hover{
 }
 
 #logo{
-  width: 30px;
+  width: 286px;
   transition: all .5s linear;
+  float: left;
+  top: -106px;
+  left: -56px;
+  opacity: 0l;
+  position: fixed;
+  opacity: 0.4;
 }
 
 #logoBox{
@@ -414,7 +420,7 @@ background-color:#ff2200}
 */
 
 #mainSection h1{
-  letter-spacing: 4px;
+  letter-spacing: 0px;
 }
 
 .mainLogo{
@@ -713,29 +719,29 @@ background-color:#ff2200}
 
 .topnav {
   overflow: hidden;
-  background-color: #1b1b1b;
-  border-bottom: solid 1px #212121;
+  background-color: whitesmoke;
+  /* border-bottom: solid 1px #212121; */
 }
 
 .topnav a {
   float: right;
   display: block;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 23px 16px;
+  color: grey;
+  text-align: right;
+  margin: 0 20px;
   text-decoration: none;
   font-size: 14px;
   transition: all .3s linear;
 }
 
 .topnav a:hover {
-  background-color: #232323;
+  background-color: whitesmoke;
   color: #ffc12c;
   transition: all .3s linear;
 }
 
 .active {
-  background-color: #1b1b1b;
+  background-color: whitesmoke;
   color: white;
 }
 
@@ -771,7 +777,7 @@ background-color:#ff2200}
 .btn-cont .btn {
   position: relative;
   padding: 10px 30px;
-  border: 3px solid white;
+  border: 3px solid whitesmoke;
   color: white;
   text-decoration: none;
   font-size: 0.8em;
@@ -1720,7 +1726,7 @@ background-color:#ff2200}
 }
 
 .list .listElement:first-child{
-  border-top:solid 1px #313131;
+  border-top: solid 1px whitesmoke;
 }
 
 .youtubeElement{
@@ -2183,11 +2189,13 @@ background-color:#ff2200}
 }
 
 .titleWebSite{
-  font-size:40px;
+  font-size:45px;
+  letter-spacing: 0px;
 }
 
 .mottoWebSite {
-  font-size: 20px;
+  font-size: 14px;
+  letter-spacing: 1px;
   margin-top: 0;
   line-height: 0px;
 }

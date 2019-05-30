@@ -4,9 +4,9 @@
 
             <img src="/public/assets/images/WebDollar-logo-white.png" alt="Cryptocurrency of the future" title="Cryptocurrency of the future" id="WebDollarLogo" class="mainLogo fadeIn">
 
-            <h1 class="fadeIn fadeIn2 noTransform titleWebSite"> WebDollar</h1>
+            <h1 class="fadeIn fadeIn2 noTransform titleWebSite">WEBDollar</h1>
             <!--<h2 class="fadeIn fadeIn2" :class="this.maintenance ? '' : 'hide'"><b class="testnet">EXPERIMENTAL</b></h2>-->
-            <h3 class="fadeIn fadeIn3 mottoWebSite">Currency of the Internet</h3>
+            <h3 class="fadeIn fadeIn3 mottoWebSite">CURRENCY OF THE INTERNET</h3>
 
             <div>
 

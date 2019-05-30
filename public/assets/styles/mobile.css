@@ -489,8 +489,8 @@
     #menu .openedMenuLink{
         width: 100%;
         display: block;
-        padding: 15px 0;
-        border-top: solid 1px #3c3c3c;
+        padding: 14px 0;
+        border-top: solid 1px whitesmoke;
     }
 
     #menu .openedMenuLink:first-child{
